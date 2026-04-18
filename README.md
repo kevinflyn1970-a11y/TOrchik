@@ -147,8 +147,8 @@ torchik.conf
 ### 1. Clone or download
 
 ```
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/kevinflyn1970-a11y/TOrchik
+cd TOrchik
 ```
 
 ---
